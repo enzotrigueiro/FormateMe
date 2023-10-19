@@ -5,4 +5,5 @@ Intuito dela, é facilitar a configuração de máquina com sistema operacional 
 o tempo manual do usuário.
 
  1 - Caso deseje apenas utilizar a ferramenta, utilize o instalador exe
+ 
  2 - Para análise do programa, foi utilizado a IDE SCITE disponibilizada no site do Autoit
